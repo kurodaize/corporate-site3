@@ -620,52 +620,7 @@ header{
  //}//contents
 
  
- footer {
-    background-color: #42b9d0;
-    color: #fff;
-    padding-top: 20px;
-  
-  .navi2{
-    .foot_navi{
-      color: #fff;
-    
-      li  {
-          display: list-item;
-          text-align: -webkit-match-parent;
-          display: block;
-          list-style: none;
-          background-repeat: no-repeat;
-          background-position: left center;
-          display: inline-block;
-          float: left;
-          margin-right: 10px;
-          font-size: 11px;
-          font-size: 1.1rem;
-          background-image: url("../images/top/foot_arroehead.png");
-          background-size: 4px 6px;
-
-        a {
-              color: #fff;
-              background-color: transparent;
-              text-decoration: none;
-              padding: 5px;
-              
-        }
-       }//li
-     }//footnavi
-  }//navi2
-  
-//----------------------------------table  
-
-
-//--------------------------------------------
-  
-
-
-
-
-
-footer{
+ footer{
 
   background-color:$blue1;
   color: #fff;
@@ -794,5 +749,10 @@ footer{
 
 
 }
+// footer
+
+h1{
+  margin: 0;
+  padding: 0;
 }
 
